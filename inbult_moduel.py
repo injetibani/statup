@@ -67,7 +67,7 @@ now_date=datetime.now()
 # print(bata)
 # print(bata.code)
 # print(bata.read())
-
+# ptint(alooo)
 
 
 
